@@ -5,7 +5,7 @@
     <li>Cursando Programação 💡</li>
     <li>Farmacêutico Dr.Estética💻</li>
     <li>Apaixonado por Degree And Art 🖌</li>
-    <li>Formado em Banco de Dados 🗄</li>
+    <li>Formado e Guiado por Deus 🗄</li>
 </ul>
     
 ##
